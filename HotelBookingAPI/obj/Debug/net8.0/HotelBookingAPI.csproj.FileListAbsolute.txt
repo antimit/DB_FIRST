@@ -185,3 +185,4 @@ C:\Users\Nosul\RiderProjects\HotelBookingAPI\HotelBookingAPI\obj\Debug\net8.0\re
 C:\Users\Nosul\RiderProjects\HotelBookingAPI\HotelBookingAPI\obj\Debug\net8.0\HotelBookingAPI.pdb
 C:\Users\Nosul\RiderProjects\HotelBookingAPI\HotelBookingAPI\obj\Debug\net8.0\HotelBookingAPI.genruntimeconfig.cache
 C:\Users\Nosul\RiderProjects\HotelBookingAPI\HotelBookingAPI\obj\Debug\net8.0\ref\HotelBookingAPI.dll
+C:\Users\Nosul\RiderProjects\HotelBookingAPI\HotelBookingAPI\obj\Debug\net8.0\HotelBookingAPI.sourcelink.json

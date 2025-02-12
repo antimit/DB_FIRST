@@ -29,7 +29,12 @@
 
     <ItemGroup>
       <Folder Include="DTOs\PaymentDTOs\" />
-      <Folder Include="DTOs\RoomDTOs\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Update="appsettings.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
     </ItemGroup>
 
 </Project>
